@@ -42,4 +42,8 @@ button {
     body {
         background-image: url("bgm.jpg");
     }
+    h1 {
+        margin-top: 50px;
+        font-size: 18px;
+    }
 }
